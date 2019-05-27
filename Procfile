@@ -1,1 +1,1 @@
-bot: python weather_cs50.py
+bot: python3 weather_cs50.py
