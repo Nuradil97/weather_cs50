@@ -1,1 +1,1 @@
-worker: python weather_cs50.py
+bot: python weather_cs50.py
